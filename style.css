@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+h1{
+    font-family : 'Libre Baskerville' serif;
+    font-style: italic;
+    color: rgb(17, 13, 13);
+    text-align: center;
+    text-justify: auto;
+    }
+
+h1.zz:hover{
+
+    background-color: gold;
+    box-sizing:border-box;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ2K6O3yHiF4jxMvplGIsTMOfmK0EBW5wlRQ&usqp=CAU);
+    background-position-x: initial;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    }
+
+body{
+    background-image: url(https://digitalcine.b-cdn.net/wp-content/uploads/2019/06/aquaman-james-wan-blu-ray-25.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: unset;
+    background-attachment: fixed;
+    font-family: 'Libre Baskerville' serif;
+    }
+
+h2{
+    text-align: center;
+    text-size-adjust: auto;
+    font-style: rgba(0, 0, 0, 0);
+    }
+
+
+.new2{
+     text-align: center;
+    }
+
+.images{
+size: calc(auto);
+    
+}
+
+
+.btn btn-primary{
+    display: -ms-grid;
+    }
+
+    
+a:hover{
+    background-color: aquamarine
+    }
+
+a.btn{
+
+    margin-left: 15cm;
+    margin-top: 2cm;
+    margin-bottom: 1cm;
+    width: 4cm;
+    height: 1cm;
+    }
+
+footer.la-fin{
+
+    text-align: center;
+    background-color: black;
+    color: chartreuse;
+}
+    
+
+

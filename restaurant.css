@@ -1,0 +1,60 @@
+body{
+    background-image: url(https://www.themilliardaire.com/wp-content/uploads/2015/07/Subsix-Per-Aquum-Niyama-4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: unset;
+    background-attachment: fixed;
+}
+    
+
+a:hover{
+    background-color: aquamarine;
+}
+
+h4{
+    border-style: dotted;
+    border: black;
+    background-color: white;
+}
+
+.container{
+
+    justify-content: baseline;
+    align-self: start;
+
+}
+
+.card{
+
+    text-align: center;
+    align-items: baseline;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(200,200,200);
+    letter-spacing: 3px;
+    font-size: 0.8rem;
+    margin: auto;
+  }
+
+td.hour{
+
+    letter-spacing: 1px;
+    align-items: center;
+    padding-bottom: 4px;
+    white-space: normal;
+}
+div p#h{
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    border: 2px solid aquamarine;
+}
+
+footer.la-fin{
+
+    text-align: center;
+    background-color: black;
+    color: chartreuse;
+}

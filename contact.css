@@ -1,0 +1,31 @@
+a:hover{
+    background-color: aquamarine;
+}
+
+
+form div{
+
+padding: 5mm;
+width: calc(100%);
+
+}
+form div label{
+
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(197, 24, 24);
+}
+
+footer.la-fin{
+
+    text-align: center;
+    background-color: black;
+    color: chartreuse;
+}
+
+label{
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(197, 24, 24);
+
+}
